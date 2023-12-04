@@ -63,6 +63,8 @@ void Error_Handler(void);
 #define Motor_Forward_GPIO_Port GPIOA
 #define Motor_Reverse_Pin GPIO_PIN_1
 #define Motor_Reverse_GPIO_Port GPIOA
+#define Servo_Control_Pin GPIO_PIN_4
+#define Servo_Control_GPIO_Port GPIOA
 
 /* USER CODE BEGIN Private defines */
 
