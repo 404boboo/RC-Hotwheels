@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
-  (lib (name "STM32F070F6P6TR")(type "KiCad")(uri "${KIPRJMOD}/Libs/STM32F070F6P6TR.pretty")(options "")(descr ""))
+  (lib (name "STM32F070F6P6TR")(type "KiCad")(uri "${KIPRJMOD}/Libs/STM32F070F6P6TR")(options "")(descr ""))
+  (lib (name "MIC5504-3.3YM5-TR")(type "KiCad")(uri "${KIPRJMOD}/Libs/MIC5504-3.3YM5-TR")(options "")(descr ""))
+  (lib (name "BD6211F-E2")(type "KiCad")(uri "${KIPRJMOD}/Libs/BD6211F-E2")(options "")(descr ""))
 )
