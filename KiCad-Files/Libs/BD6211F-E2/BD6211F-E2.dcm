@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BD6211F-E2
+D ROHM BD6211F-E2, Full Bridge Motor Driver Half-Bridge,, 8-Pin SOP
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/9ec5cdfbd612023d7489950ca9dee0a8.pdf
+$ENDCMP
+#
+#End Doc Library
