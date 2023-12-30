@@ -8,4 +8,6 @@
   (lib (name "C4.7uF")(type "KiCad")(uri "${KIPRJMOD}/Libs/C4.7uF")(options "")(descr ""))
   (lib (name "C10nF")(type "KiCad")(uri "${KIPRJMOD}/Libs/C10nF")(options "")(descr ""))
   (lib (name "C100nF")(type "KiCad")(uri "${KIPRJMOD}/Libs/C100nF")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Libs/ServoMotor/Library.pretty")(options "")(descr ""))
+  (lib (name "Library_Battery")(type "KiCad")(uri "${KIPRJMOD}/Libs/Library_Battery.pretty")(options "")(descr ""))
 )
