@@ -7,7 +7,9 @@ This repository contains all the files and documentation for our DIY remote-cont
 - `Kicad Files`: Contains the schematic and gerber files for the PCB design.
   - `Libs`: Libraries for the components used in the KiCad.
 - `Stm32F070F6P6TR`: STM32Cube project folder.
+## Bill of Materials (BOM)
 
+Check out our [Bill of Materials Spreadsheet](https://1drv.ms/x/s!AkUVCTQvexeIhbBXzQdKwvWQZ13EOg?e=rf4EnU) for a detailed list of components used in this project.
 ## Installation and Setup
 
 ### PCB (KiCad Files)
