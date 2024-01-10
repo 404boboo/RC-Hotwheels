@@ -8,4 +8,8 @@
   (lib (name "C4.7nF")(type "Legacy")(uri "${KIPRJMOD}/Libs/C4.7uF/885012106005.lib")(options "")(descr ""))
   (lib (name "C10nF")(type "Legacy")(uri "${KIPRJMOD}/Libs/C10nF/885012205012.lib")(options "")(descr ""))
   (lib (name "C100nF")(type "Legacy")(uri "${KIPRJMOD}/Libs/C100nF/885012205018.lib")(options "")(descr ""))
+  (lib (name "885012209003")(type "KiCad")(uri "${KIPRJMOD}/Libs/C1uF/885012209003.kicad_sym")(options "")(descr ""))
+  (lib (name "885012209004")(type "KiCad")(uri "${KIPRJMOD}/Libs/C4.7uF/885012209004.kicad_sym")(options "")(descr ""))
+  (lib (name "885012209035")(type "KiCad")(uri "${KIPRJMOD}/Libs/C10nF/885012209035.kicad_sym")(options "")(descr ""))
+  (lib (name "885012209041")(type "KiCad")(uri "${KIPRJMOD}/Libs/C100nF/885012209041.kicad_sym")(options "")(descr ""))
 )
