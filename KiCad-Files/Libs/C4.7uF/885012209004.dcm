@@ -1,9 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 885012209004
-D Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 4700000pF X7R1210475K010DFCT10000
+$CMP C2012X7R1A475K125AC
+D TDK 2012 C 4.7uF Ceramic Multilayer Capacitor, 10 V dc, +125C, X7R Dielectric, +/-10%
 K
-F https://katalog.we-online.com/pbs/datasheet/885012209004.pdf
+F https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf
 $ENDCMP
 #
 #End Doc Library
