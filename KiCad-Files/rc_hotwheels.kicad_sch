@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Remote Control Hotwheels")
+    (date "2024-01-14")
+    (rev "v1.0")
+    (company "EA Bongo Bong - Konrad Marchewka Ahmed Bouras Yazid Almazroua")
+  )
+
   (lib_symbols
     (symbol "2023-11-22_23-54-19:STM32F070F6P6" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "U1" (at 27.94 10.16 0)

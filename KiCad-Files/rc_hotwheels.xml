@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\Studia\5th_semester\bondyra_project\project\RC-Hotwheels\KiCad-Files\rc_hotwheels.kicad_sch</source>
+    <date>1/14/2024 6:13:28 PM</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Remote Control Hotwheels</title>
+        <company>EA Bongo Bong - Konrad Marchewka Ahmed Bouras Yazid Almazroua</company>
+        <rev>v1.0</rev>
+        <date>2024-01-14</date>
+        <source>rc_hotwheels.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Battery_Cell</value>
+      <footprint>Library:Battery_Pads</footprint>
+      <libsource lib="Device" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Single-cell battery"/>
+      <property name="ki_keywords" value="battery cell"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9808e8b5-15fa-43fe-8e4c-61abfd088e5d</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>C1uF:CAPC2012X135N</footprint>
+      <datasheet>https://katalog.we-online.com/pbs/datasheet/885012209003.pdf</datasheet>
+      <fields>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209003</field>
+      </fields>
+      <libsource lib="885012209003" part="885012209003" description="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 1000000pF X7R1210105K010DFCT10000"/>
+      <property name="Height" value="1.05"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="885012209003"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 1000000pF X7R1210105K010DFCT10000"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c38ddad3-7136-49a0-a95b-8cbe1bc49e5d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>1uF</value>
+      <footprint>C1uF:CAPC2012X135N</footprint>
+      <datasheet>https://katalog.we-online.com/pbs/datasheet/885012209003.pdf</datasheet>
+      <fields>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209003</field>
+      </fields>
+      <libsource lib="885012209003" part="885012209003" description="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 1000000pF X7R1210105K010DFCT10000"/>
+      <property name="Height" value="1.05"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="885012209003"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 1000000pF X7R1210105K010DFCT10000"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6c8d1e3-54e3-441b-b62a-f2b9f389f415</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>4.7uF</value>
+      <footprint>C1uF:CAPC2012X135N</footprint>
+      <datasheet>https://katalog.we-online.com/pbs/datasheet/885012209004.pdf</datasheet>
+      <fields>
+        <field name="Height">2.2</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209004</field>
+      </fields>
+      <libsource lib="885012209004" part="885012209004" description="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 4700000pF X7R1210475K010DFCT10000"/>
+      <property name="Height" value="2.2"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="885012209004"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 4700000pF X7R1210475K010DFCT10000"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6b1c503e-e46d-4b91-9dec-630477527aaf</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>C1uF:CAPC2012X135N</footprint>
+      <datasheet>https://katalog.we-online.com/pbs/datasheet/885012209003.pdf</datasheet>
+      <fields>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209003</field>
+      </fields>
+      <libsource lib="885012209003" part="885012209003" description="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 1000000pF X7R1210105K010DFCT10000"/>
+      <property name="Height" value="1.05"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="885012209003"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 1000000pF X7R1210105K010DFCT10000"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1dc534ce-fc6d-4879-aec7-9e26bef3764b</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>C1uF:CAPC2012X135N</footprint>
+      <datasheet>https://katalog.we-online.com/pbs/datasheet/885012209041.pdf</datasheet>
+      <fields>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209041</field>
+      </fields>
+      <libsource lib="885012209041" part="885012209041" description="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 100000pF X7R1210104K050DFCT10000"/>
+      <property name="Height" value="1.05"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="885012209041"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 100000pF X7R1210104K050DFCT10000"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>242e2b48-6069-4a56-b811-898f5c4887db</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>10nF</value>
+      <footprint>C1uF:CAPC2012X135N</footprint>
+      <datasheet>https://katalog.we-online.com/pbs/datasheet/885012209035.pdf</datasheet>
+      <fields>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209035</field>
+      </fields>
+      <libsource lib="885012209035" part="885012209035" description="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 10000pF X7R1210103K050DFCT10000"/>
+      <property name="Height" value="1.05"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Wurth Elektronik"/>
+      <property name="Manufacturer_Part_Number" value="885012209035"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 10000pF X7R1210103K050DFCT10000"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>62ef3592-1378-46fd-bfc3-241441327735</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>BD6211F-E2</value>
+      <footprint>BD6211F-E2:SOIC127P620X171-8N</footprint>
+      <datasheet>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/9ec5cdfbd612023d7489950ca9dee0a8.pdf</datasheet>
+      <fields>
+        <field name="Height">1.71</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">BD6211F-E2</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="BD6211F-E2" description="ROHM BD6211F-E2, Full Bridge Motor Driver Half-Bridge,, 8-Pin SOP"/>
+      <property name="Height" value="1.71"/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="ROHM Semiconductor"/>
+      <property name="Manufacturer_Part_Number" value="BD6211F-E2"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="ROHM BD6211F-E2, Full Bridge Motor Driver Half-Bridge,, 8-Pin SOP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3707157-3c2a-40bc-baac-78432bee2b36</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>MIC5504-3.3YM5-TR</value>
+      <footprint>MIC5504-3.3YM5-TR:SOT95P280X145-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/2/MIC5504-3.3YM5-TR.pdf</datasheet>
+      <fields>
+        <field name="Arrow Part Number">MIC5504-3.3YM5-TR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mic5504-3.3ym5-tr/microchip-technology?region=nac</field>
+        <field name="Description">MICROCHIP - MIC5504-3.3YM5-TR - LDO VOLT REG, 0.3A, 3.3V, SOT-23-5</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MIC5504-3.3YM5-TR</field>
+        <field name="Mouser Part Number">998-MIC5504-3.3YM5TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC5504-3.3YM5-TR?qs=U6T8BxXiZAUmVQ5Zs217qQ%3D%3D</field>
+      </fields>
+      <libsource lib="MIC5504-3.3YM5-TR" part="MIC5504-3.3YM5-TR" description="MICROCHIP - MIC5504-3.3YM5-TR - LDO VOLT REG, 0.3A, 3.3V, SOT-23-5"/>
+      <property name="Description" value="MICROCHIP - MIC5504-3.3YM5-TR - LDO VOLT REG, 0.3A, 3.3V, SOT-23-5"/>
+      <property name="Height" value="1.45"/>
+      <property name="Manufacturer_Name" value="Microchip"/>
+      <property name="Manufacturer_Part_Number" value="MIC5504-3.3YM5-TR"/>
+      <property name="Mouser Part Number" value="998-MIC5504-3.3YM5TR"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC5504-3.3YM5-TR?qs=U6T8BxXiZAUmVQ5Zs217qQ%3D%3D"/>
+      <property name="Arrow Part Number" value="MIC5504-3.3YM5-TR"/>
+      <property name="Arrow Price/Stock" value="https://www.arrow.com/en/products/mic5504-3.3ym5-tr/microchip-technology?region=nac"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="MICROCHIP - MIC5504-3.3YM5-TR - LDO VOLT REG, 0.3A, 3.3V, SOT-23-5"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24bb611d-bb4f-4f8d-9f0b-452abee52ed8</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>OS102011MS2QN1</value>
+      <footprint>OS102011MA1QN1</footprint>
+      <datasheet>https://www.ckswitches.com/media/1428/os.pdf</datasheet>
+      <fields>
+        <field name="Description">Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide</field>
+        <field name="Manufacturer_Name">C &amp; K COMPONENTS</field>
+        <field name="Manufacturer_Part_Number">OS102011MS2QN1</field>
+      </fields>
+      <libsource lib="OS102011MS2QN1" part="OS102011MS2QN1" description="Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide"/>
+      <property name="Description" value="Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide"/>
+      <property name="Height" value=""/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="C &amp; K COMPONENTS"/>
+      <property name="Manufacturer_Part_Number" value="OS102011MS2QN1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ac4a6e7-2586-44b7-befe-2eff8c5d1d79</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>Li-Ion 18650 battery charging </value>
+      <footprint>Library:Battery_Pads</footprint>
+      <datasheet>https://www.ckswitches.com/media/1428/os.pdf</datasheet>
+      <fields>
+        <field name="Description">Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide</field>
+        <field name="Manufacturer_Name">C &amp; K COMPONENTS</field>
+        <field name="Manufacturer_Part_Number">OS102011MS2QN1</field>
+      </fields>
+      <libsource lib="" part="OS102011MS2QN1_1" description="Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide"/>
+      <property name="Description" value="Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide"/>
+      <property name="Height" value=""/>
+      <property name="Farnell Part Number" value=""/>
+      <property name="Farnell Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="C &amp; K COMPONENTS"/>
+      <property name="Manufacturer_Part_Number" value="OS102011MS2QN1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2922b10d-9de0-4410-b796-176ad11c1744</tstamps>
+    </comp>
+    <comp ref="SM1">
+      <value>Motor_Servo</value>
+      <footprint>Library:Servo_Motor</footprint>
+      <datasheet>http://forums.parallax.com/uploads/attachments/46831/74481.png</datasheet>
+      <libsource lib="Motor" part="Motor_Servo" description="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Servo Motor (Futaba, HiTec, JR connector)"/>
+      <property name="ki_keywords" value="Servo Motor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c200ec29-b935-401b-971b-29d8341e62e4</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>STM32F070F6P6</value>
+      <footprint>STM32F070F6P6:SOP65P640X120-20N</footprint>
+      <datasheet>STM32F070F6P6</datasheet>
+      <libsource lib="2023-11-22_23-54-19" part="STM32F070F6P6" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_keywords" value="STM32F070F6P6"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fc3e3b5-d32a-4566-b06b-3227f5fb0f53 6e94eddc-0eb4-440b-8aad-068522079bff</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>NRF24L01_Breakout</value>
+      <footprint>RF_Module:nRF24L01_Breakout</footprint>
+      <datasheet>http://www.nordicsemi.com/eng/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf</datasheet>
+      <libsource lib="" part="NRF24L01_Breakout_1" description="Ultra low power 2.4GHz RF Transceiver, Carrier PCB"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="rc_hotwheels.kicad_sch"/>
+      <property name="ki_description" value="Ultra low power 2.4GHz RF Transceiver, Carrier PCB"/>
+      <property name="ki_keywords" value="Low Power RF Transceiver breakout carrier"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>103aba5f-a9bc-4516-83f3-ff8c589951f5</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="NRF24L01_Breakout_1">
+      <description>Ultra low power 2.4GHz RF Transceiver, Carrier PCB</description>
+      <docs>http://www.nordicsemi.com/eng/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf</docs>
+      <footprints>
+        <fp>nRF24L01*Breakout*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U3</field>
+        <field name="Value">NRF24L01_Breakout</field>
+        <field name="Footprint">RF_Module:nRF24L01_Breakout</field>
+        <field name="Datasheet">http://www.nordicsemi.com/eng/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_out"/>
+        <pin num="2" name="VCC" type="passive"/>
+        <pin num="3" name="CE" type="passive"/>
+        <pin num="4" name="~{CSN}" type="passive"/>
+        <pin num="5" name="SCK" type="input"/>
+        <pin num="6" name="MOSI" type="input"/>
+        <pin num="7" name="MISO" type="output"/>
+        <pin num="8" name="IRQ" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="OS102011MS2QN1_1">
+      <description>Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide</description>
+      <docs>https://www.ckswitches.com/media/1428/os.pdf</docs>
+      <fields>
+        <field name="Reference">S2</field>
+        <field name="Value">Li-Ion 18650 battery charging </field>
+        <field name="Footprint">OS102011MA1QN1</field>
+        <field name="Datasheet">https://www.ckswitches.com/media/1428/os.pdf</field>
+        <field name="Description">Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide</field>
+        <field name="Manufacturer_Name">C &amp; K COMPONENTS</field>
+        <field name="Manufacturer_Part_Number">OS102011MS2QN1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BATT+" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="2023-11-22_23-54-19" part="STM32F070F6P6">
+      <docs>STM32F070F6P6</docs>
+      <footprints>
+        <fp>TSSOP20</fp>
+        <fp>TSSOP20-M</fp>
+        <fp>TSSOP20-L</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U1</field>
+        <field name="Value">STM32F070F6P6</field>
+        <field name="Footprint">STM32F070F6P6:SOP65P640X120-20N</field>
+        <field name="Datasheet">STM32F070F6P6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BOOT0" type="free"/>
+        <pin num="2" name="PF0-OSC_IN" type="free"/>
+        <pin num="3" name="PF1-OSC_OUT" type="free"/>
+        <pin num="4" name="NRST" type="input"/>
+        <pin num="5" name="VDDA" type="passive"/>
+        <pin num="6" name="PA0" type="bidirectional"/>
+        <pin num="7" name="PA1" type="bidirectional"/>
+        <pin num="8" name="PA2" type="free"/>
+        <pin num="9" name="PA3" type="free"/>
+        <pin num="10" name="PA4" type="bidirectional"/>
+        <pin num="11" name="PA5" type="bidirectional"/>
+        <pin num="12" name="PA6" type="bidirectional"/>
+        <pin num="13" name="PA7" type="bidirectional"/>
+        <pin num="14" name="PB1" type="free"/>
+        <pin num="15" name="VSS" type="passive"/>
+        <pin num="16" name="VDD" type="passive"/>
+        <pin num="17" name="PA9" type="bidirectional"/>
+        <pin num="18" name="PA10" type="free"/>
+        <pin num="19" name="PA13" type="bidirectional"/>
+        <pin num="20" name="PA14" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="885012209003" part="885012209003">
+      <description>Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 1000000pF X7R1210105K010DFCT10000</description>
+      <docs>https://katalog.we-online.com/pbs/datasheet/885012209003.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">885012209003</field>
+        <field name="Footprint">CAPC3225X105N</field>
+        <field name="Datasheet">https://katalog.we-online.com/pbs/datasheet/885012209003.pdf</field>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209003</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="885012209004" part="885012209004">
+      <description>Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 4700000pF X7R1210475K010DFCT10000</description>
+      <docs>https://katalog.we-online.com/pbs/datasheet/885012209004.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">885012209004</field>
+        <field name="Footprint">CAPC3225X220N</field>
+        <field name="Datasheet">https://katalog.we-online.com/pbs/datasheet/885012209004.pdf</field>
+        <field name="Height">2.2</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209004</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="885012209035" part="885012209035">
+      <description>Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 10000pF X7R1210103K050DFCT10000</description>
+      <docs>https://katalog.we-online.com/pbs/datasheet/885012209035.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">885012209035</field>
+        <field name="Footprint">CAPC3225X105N</field>
+        <field name="Datasheet">https://katalog.we-online.com/pbs/datasheet/885012209035.pdf</field>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209035</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="885012209041" part="885012209041">
+      <description>Multilayer Ceramic Chip Capacitor WCAP-CSGP Series 1210 100000pF X7R1210104K050DFCT10000</description>
+      <docs>https://katalog.we-online.com/pbs/datasheet/885012209041.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">885012209041</field>
+        <field name="Footprint">CAPC3225X105N</field>
+        <field name="Datasheet">https://katalog.we-online.com/pbs/datasheet/885012209041.pdf</field>
+        <field name="Height">1.05</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">885012209041</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MIC5504-3.3YM5-TR" part="MIC5504-3.3YM5-TR">
+      <description>MICROCHIP - MIC5504-3.3YM5-TR - LDO VOLT REG, 0.3A, 3.3V, SOT-23-5</description>
+      <docs>https://componentsearchengine.com/Datasheets/2/MIC5504-3.3YM5-TR.pdf</docs>
+      <fields>
+        <field name="Reference">IC2</field>
+        <field name="Value">MIC5504-3.3YM5-TR</field>
+        <field name="Footprint">MIC5504-3.3YM5-TR:SOT95P280X145-5N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/2/MIC5504-3.3YM5-TR.pdf</field>
+        <field name="Height">1.45</field>
+        <field name="Description">MICROCHIP - MIC5504-3.3YM5-TR - LDO VOLT REG, 0.3A, 3.3V, SOT-23-5</field>
+        <field name="Manufacturer_Name">Microchip</field>
+        <field name="Manufacturer_Part_Number">MIC5504-3.3YM5-TR</field>
+        <field name="Mouser Part Number">998-MIC5504-3.3YM5TR</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MIC5504-3.3YM5-TR?qs=U6T8BxXiZAUmVQ5Zs217qQ%3D%3D</field>
+        <field name="Arrow Part Number">MIC5504-3.3YM5-TR</field>
+        <field name="Arrow Price/Stock">https://www.arrow.com/en/products/mic5504-3.3ym5-tr/microchip-technology?region=nac</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="EN" type="free"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="VOUT" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Motor" part="Motor_Servo">
+      <description>Servo Motor (Futaba, HiTec, JR connector)</description>
+      <docs>http://forums.parallax.com/uploads/attachments/46831/74481.png</docs>
+      <footprints>
+        <fp>PinHeader*P2.54mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SM1</field>
+        <field name="Value">Motor_Servo</field>
+        <field name="Datasheet">http://forums.parallax.com/uploads/attachments/46831/74481.png</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PWM" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+        <pin num="3" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="OS102011MS2QN1" part="OS102011MS2QN1">
+      <description>Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide</description>
+      <docs>https://www.ckswitches.com/media/1428/os.pdf</docs>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">OS102011MS2QN1</field>
+        <field name="Footprint">OS102011MA1QN1</field>
+        <field name="Datasheet">https://www.ckswitches.com/media/1428/os.pdf</field>
+        <field name="Description">Switch Slide Miniature SPDT 0.1A 12VDC Through Hole Slide Switch SPDT On-On 0.1 A@ 12 V dc Slide</field>
+        <field name="Manufacturer_Name">C &amp; K COMPONENTS</field>
+        <field name="Manufacturer_Part_Number">OS102011MS2QN1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="BD6211F-E2">
+      <description>ROHM BD6211F-E2, Full Bridge Motor Driver Half-Bridge,, 8-Pin SOP</description>
+      <docs>https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/9ec5cdfbd612023d7489950ca9dee0a8.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">BD6211F-E2</field>
+        <field name="Footprint">SOIC127P620X171-8N</field>
+        <field name="Datasheet">https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/9ec5cdfbd612023d7489950ca9dee0a8.pdf</field>
+        <field name="Height">1.71</field>
+        <field name="Manufacturer_Name">ROHM Semiconductor</field>
+        <field name="Manufacturer_Part_Number">BD6211F-E2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT1" type="passive"/>
+        <pin num="2" name="VCC_1" type="passive"/>
+        <pin num="3" name="VCC_2" type="passive"/>
+        <pin num="4" name="FIN" type="passive"/>
+        <pin num="5" name="RIN" type="passive"/>
+        <pin num="6" name="VREF" type="passive"/>
+        <pin num="7" name="OUT2" type="passive"/>
+        <pin num="8" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="2023-11-22_23-54-19">
+      <uri>D:/Studia/5th_semester/bondyra_project/ul_STM32F070F6P6/KiCADv6/2023-11-22_23-54-19.kicad_sym</uri>
+    </library>
+    <library logical="885012209003">
+      <uri>D:\Studia\5th_semester\bondyra_project\project\RC-Hotwheels\KiCad-Files/Libs/C1uF/885012209003.kicad_sym</uri>
+    </library>
+    <library logical="885012209004">
+      <uri>D:\Studia\5th_semester\bondyra_project\project\RC-Hotwheels\KiCad-Files/Libs/C4.7uF/885012209004.kicad_sym</uri>
+    </library>
+    <library logical="885012209035">
+      <uri>D:\Studia\5th_semester\bondyra_project\project\RC-Hotwheels\KiCad-Files/Libs/C10nF/885012209035.kicad_sym</uri>
+    </library>
+    <library logical="885012209041">
+      <uri>D:\Studia\5th_semester\bondyra_project\project\RC-Hotwheels\KiCad-Files/Libs/C100nF/885012209041.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\Studia\kicad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="MIC5504-3.3YM5-TR">
+      <uri>D:\Studia\5th_semester\bondyra_project\project\RC-Hotwheels\KiCad-Files/Libs/MIC5504-3.3YM5-TR/MIC5504-3.3YM5-TR.lib</uri>
+    </library>
+    <library logical="Motor">
+      <uri>D:\Studia\kicad\7.0\share\kicad\symbols\/Motor.kicad_sym</uri>
+    </library>
+    <library logical="OS102011MS2QN1">
+      <uri>D:\Studia\5th_semester\bondyra_project\project\RC-Hotwheels\KiCad-Files/Libs/OS102011MS2QN1/OS102011MS2QN1.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="MISO">
+      <node ref="U1" pin="12" pinfunction="PA6" pintype="bidirectional"/>
+      <node ref="U3" pin="7" pinfunction="MISO" pintype="output"/>
+    </net>
+    <net code="2" name="MOSI">
+      <node ref="U1" pin="13" pinfunction="PA7" pintype="bidirectional"/>
+      <node ref="U3" pin="6" pinfunction="MOSI" pintype="input"/>
+    </net>
+    <net code="3" name="Motor +">
+      <node ref="IC1" pin="1" pinfunction="OUT1" pintype="passive"/>
+    </net>
+    <net code="4" name="Motor -">
+      <node ref="IC1" pin="7" pinfunction="OUT2" pintype="passive"/>
+    </net>
+    <net code="5" name="Motor Forward">
+      <node ref="IC1" pin="4" pinfunction="FIN" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="Motor Reverse">
+      <node ref="IC1" pin="5" pinfunction="RIN" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="Motor Speed">
+      <node ref="IC1" pin="6" pinfunction="VREF" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Net-(BT1-+)">
+      <node ref="BT1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(BT1--)">
+      <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
+      <node ref="S3" pin="2" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(C6-Pad2)">
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(IC1-GND)">
+      <node ref="IC1" pin="8" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(IC2-GND)">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC2" pin="2" pinfunction="GND" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(S3-BATT+)">
+      <node ref="S1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="S3" pin="1" pinfunction="BATT+" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(SM1--)">
+      <node ref="SM1" pin="3" pinfunction="-" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(U1B-VSS)">
+      <node ref="U1" pin="15" pinfunction="VSS" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(U3-CE)">
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_out"/>
+      <node ref="U3" pin="3" pinfunction="CE" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="~{CSN}" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="IRQ" pintype="output"/>
+    </net>
+    <net code="21" name="PWM">
+      <node ref="SM1" pin="1" pinfunction="PWM" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="RST">
+      <node ref="U1" pin="4" pinfunction="NRST" pintype="input"/>
+    </net>
+    <net code="23" name="SCK">
+      <node ref="U1" pin="11" pinfunction="PA5" pintype="bidirectional"/>
+      <node ref="U3" pin="5" pinfunction="SCK" pintype="input"/>
+    </net>
+    <net code="24" name="SYS_SWCLK">
+      <node ref="U1" pin="20" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="SYS_SWDIO">
+      <node ref="U1" pin="19" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="VCC">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="2" pinfunction="VCC_1" pintype="passive"/>
+      <node ref="IC1" pin="3" pinfunction="VCC_2" pintype="passive"/>
+      <node ref="IC2" pin="1" pinfunction="VIN" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SM1" pin="2" pinfunction="+" pintype="passive"/>
+    </net>
+    <net code="27" name="VR_OUT">
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC2" pin="5" pinfunction="VOUT" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="VDD" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VDDA" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VCC" pintype="passive"/>
+    </net>
+    <net code="28" name="unconnected-(IC2-EN-Pad3)">
+      <node ref="IC2" pin="3" pinfunction="EN" pintype="free"/>
+    </net>
+    <net code="29" name="unconnected-(IC2-NC-Pad4)">
+      <node ref="IC2" pin="4" pinfunction="NC" pintype="no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U1A-BOOT0-Pad1)">
+      <node ref="U1" pin="1" pinfunction="BOOT0" pintype="free"/>
+    </net>
+    <net code="31" name="unconnected-(U1A-PA2-Pad8)">
+      <node ref="U1" pin="8" pinfunction="PA2" pintype="free"/>
+    </net>
+    <net code="32" name="unconnected-(U1A-PA3-Pad9)">
+      <node ref="U1" pin="9" pinfunction="PA3" pintype="free"/>
+    </net>
+    <net code="33" name="unconnected-(U1A-PA10-Pad18)">
+      <node ref="U1" pin="18" pinfunction="PA10" pintype="free"/>
+    </net>
+    <net code="34" name="unconnected-(U1A-PB1-Pad14)">
+      <node ref="U1" pin="14" pinfunction="PB1" pintype="free"/>
+    </net>
+    <net code="35" name="unconnected-(U1A-PF0-OSC_IN-Pad2)">
+      <node ref="U1" pin="2" pinfunction="PF0-OSC_IN" pintype="free"/>
+    </net>
+    <net code="36" name="unconnected-(U1A-PF1-OSC_OUT-Pad3)">
+      <node ref="U1" pin="3" pinfunction="PF1-OSC_OUT" pintype="free"/>
+    </net>
+  </nets>
+</export>
